@@ -1,0 +1,16 @@
+Martha Elizabeth López Ortiz
+correo: elizabeth15isc@hotmail.com
+
+Codigo Morse
+Instrucciones de uso
+1.- En linea de comandos java ingresar: java -jar "codigoMorse.jar" 
+2.-Solo ingrese el texto a convertir y presione enter para convertir a morse.
+    De igual manera ingrese codigo morse y presione enter y lo convertirá a texto .
+3.- El programa seguirá ejecutandose hasta que escriba el simbolo # para cerrar.
+
+Nota:
+    El codigo morse detecta cada letra separandola por un espacio y detecta
+    cada palabra separada por 3 espacios. si se escribe codigo morse mal
+    escrito lo marcará como ilegible pero traducirá las letras bien escritas.
+    El texto a morse solo traducirá si son caracteres del alfabeto, sino 
+    mostrará un mensaje de error de traduccion.

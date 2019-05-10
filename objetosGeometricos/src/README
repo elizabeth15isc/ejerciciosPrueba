@@ -1,0 +1,25 @@
+Martha Elizabeth López Ortiz
+correo: elizabeth15isc@hotmail.com
+
+Figuras geometricas
+Instrucciones de uso
+1.- En linea de comandos java ingresar: java -jar "objetosGeometricos.jar" 
+2.- solo ingrese la longitud del lado de la figura y presione Enter, seguido 
+    de esto se desplegará el menú con las opciones de calculos que puede 
+    realizar, una opción para volver al inicio y una opción para terminar
+    el programa. Las opciones de calculos son:
+        1) Calcular área de un cuadrado
+        2) Calcular perímetro de un cuadrado
+        3) Calcular volumen de un cubo 
+        4) Calcular perímetro de un cubo
+    La opción (5) permitirá volver a inicio e ingresar un nuevo valor,
+    la opción (6) terminará la ejecución del programa.
+3.- Al terminar la ejecución de un cáculo se desplegarán las opciones de
+    '1)volver al menú' y '2)volver a inicio' para ingresar un nuevo valor. En
+    caso de escoger (1) despegará nuevamente el menú de opciones, si 
+    se selecciona (2) permitirá el ingreso de un nuevo valor.
+3.- El programa seguirá ejecutandose hasta que.
+
+Nota:
+    Mientras no se ingrese un nuevo valor, las operaciones de cálculo
+    operarán con el mismo valor.

@@ -1,0 +1,13 @@
+Martha Elizabeth López Ortiz
+correo: elizabeth15isc@hotmail.com
+
+Numeros romanos
+Instrucciones de uso
+1.- En linea de comandos java ingresar: java -jar "numerosRomanos.jar" 
+2.- Solo ingrese el número a convertir y presioné Enter y la conversión 
+    se mostrará en pantalla.
+3.- El programa seguirá ejecutandose hasta que escriba el simbolo # para cerrar.
+
+Nota:
+    Las conversiones solo se efectuará si los caracteres son números,
+    de otra forma mostrará un mensaje de error y permitirá ingresar nuevos datos.
